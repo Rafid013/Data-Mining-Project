@@ -1,0 +1,4 @@
+41	2	9372	./dataset-co-location/syn_loc1.txt	192	./dataset-co-location/syn_doc1.txt	0	sca_tree1.txt	1	0.5	10
+41	2	182334	./dataset-co-location/sca_loc1.txt	36	./dataset-co-location/sca_doc1.txt	0	sca_tree1.txt	5	0.5 30
+41	2	94028	syn_loc.txt	462	syn_doc.txt	0	syn_tree.txt	1	0.5	10
+41	2	77633	./dataset-co-location/real_loc.txt	18	./dataset-co-location/real_doc.txt	0	syn_tree.txt	1	0.3 40
