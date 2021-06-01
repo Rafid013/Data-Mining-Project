@@ -16,3 +16,18 @@ https://colab.research.google.com/drive/1Rm3DZXy7NTbbee2zKgl721VjXQWpuk7z
 * Finally, we have to run the code under the section **Process Results** available at https://colab.research.google.com/drive/1Rm3DZXy7NTbbee2zKgl721VjXQWpuk7z 
 * The Spatio-Temporal patterns will be available in the folder named **Final Patterns**
 * The files inside this folder follow the naming convention- final_patterns_< temporal threshold > < spatial support threshold > < distance threshold > < number of time slot >.txt
+
+# Running Codes for Experiment 2
+Before running the main code for the experiment, we need to preprocess the data. The code for preprocessing data is available here-  
+https://colab.research.google.com/drive/1dzFnBrTHZYhShFTUtR5YHVnutgzXNJ9d#scrollTo=MNigQeXKOsyR  
+* Mount the drive folder in google folder if necessary
+* First, we need to run the code under the section **Preprocess Data**
+* Before running, make sure the project folder path (folder variable in the code) and Dataset location is correctly provided (_incidents.csv_ file of our Dataset should be located in a folder named **Data** which should be inside the project folder
+* Download the **Data_EXP2** folder that is created and keep it in the same folder where the file **run_fraction_score_exp2.sh** is located
+* Now, run the bash script named **run_fraction_score_exp2.sh**
+* All the co-location patterns are stored in **Results_EXP2** directory
+* All the statistics are stored in **Stats_EXP2** directory
+* Now, we have to upload the folder **Results_EXP2** to drive in the project folder
+* Finally, we have to run the code under the section **Process Results** available at https://colab.research.google.com/drive/1dzFnBrTHZYhShFTUtR5YHVnutgzXNJ9d#scrollTo=MNigQeXKOsyR 
+* The Spatio-Temporal patterns will be available in the folder named **Final_Patterns_EXP2**
+* The files inside this folder follow the naming convention- final_patterns_< spatial support threshold > < distance threshold > < number of time slot > < temporal support threshold > < temporal distance threshold >.txt
