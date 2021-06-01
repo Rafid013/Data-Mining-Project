@@ -1,5 +1,7 @@
 # Data-Mining-Project
 
+A Linux environment is required to run the codes (at least the codes that require running the code for Fraction-Score)
+
 ## Running The Genetic Algorithm
 
 Detailed instruction provided in the Readme file inside Genetic Algorithm Directory 
