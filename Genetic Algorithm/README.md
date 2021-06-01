@@ -1,13 +1,13 @@
-Step 1: Compile the source code
+Step 1: Compile the source code  
 make
 
-Step 2: Run the code
+Step 2: Run the code  
 ./Colocation
 
-Step 3: Input Files (Format of those files can be found in Appendix A)
+Step 3: Input Files (Format of those files can be found in Appendix A)  
 By default, we have file "config.txt" for configuration
 
-Step 4: Collect the co-location patterns and running statistics 
+Step 4: Collect the co-location patterns and running statistics  
 
 the co-location patterns are stored in "result.txt"
 which format is explained in Appendix D.
