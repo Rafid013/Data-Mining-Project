@@ -1,0 +1,1 @@
+41 2 112783 Data_EXP3/data_loc_12.csv 10 Data_EXP3/data_type_12.csv 0 Trees_EXP3/Tree_0.4_3_12/data_tree.txt 1 0.4 3
